@@ -13,7 +13,7 @@ import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 
 const promise = loadStripe(
-  "pk_test_51HS7IzGuQodEj3KzMgBSbt6s2YSg9wvRIjmxdZz086XkDk8FUxm0ezdcQtA9bo8um1jDafZhPLvQgmdVvkEMM97n007sC6VXvp"
+  "pk_test_51HS7IzGuQodEj3KzMgBSbt6s2YSg9wvRIjmxdZz086XkDk8FUxm0ezdcQtA9bo8um1jDafZhPLvQgmdVvkEMM97n007sC6VXvp" //add your public key from stripe here
 );
 
 function App() {
