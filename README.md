@@ -10,11 +10,22 @@
     CVC: 242
     ZIP: 42424
 - Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
-- Dependencies for the project are:
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.10.5",
-    "pusher": "^3.0.1"
+- Front End Dependencies for the project are:<br>
+    "@material-ui/core": "^4.11.0",<br>
+    "@material-ui/icons": "^4.9.1",<br>
+    "@stripe/react-stripe-js": "^1.1.2",<br>
+    "@stripe/stripe-js": "^1.9.0",<br>
+    "@testing-library/jest-dom": "^4.2.4",<br>
+    "@testing-library/react": "^9.5.0",<br>
+    "@testing-library/user-event": "^7.2.1",<br>
+    "axios": "^0.20.0",<br>
+    "firebase": "^7.20.0",<br>
+    "moment": "^2.28.0",<br>
+    "react": "^16.13.1",<br>
+    "react-currency-format": "^1.0.0",<br>
+    "react-dom": "^16.13.1",<br>
+    "react-router-dom": "^5.2.0",<br>
+    "react-scripts": "3.4.3"
 - For now, it has only couple of endpoints as the application is still in progress.
 - Only purpose of this app is to support and supply data to my project "WhatsApp Clone"
 - The frontend of the app is hossted on firebase at https://my-whatsapp-clone-a8f82.web.app/
