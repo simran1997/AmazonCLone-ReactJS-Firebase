@@ -2,6 +2,13 @@
 - A appication based and inspired by amzone design and functionalities.
 - User can crete his/her account, logn into it.
 - Also, there is functionality to add orders into basket.
+- Further those added products can also be removed from the basket.
+- Payment transactions are handled using <b>Stripe</b> Test Api Keys.
+- By using following details for Card a succesful transaction can be made under testing environment for now:
+    Card: 4242 4242 4242 4242
+    MM/YY: 04 / 24
+    CVC: 242
+    ZIP: 42424
 - Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
 - Dependencies for the project are:
     "cors": "^2.8.5",
