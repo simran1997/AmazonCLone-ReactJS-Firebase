@@ -9,7 +9,7 @@
     MM/YY: 04 / 24
     CVC: 242
     ZIP: 42424
-- Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
+- All orders with successful transactions will be shown under 'Returns & Orders' tab.
 - Front End Dependencies for the project are:<br>
     "@material-ui/core": "^4.11.0",<br>
     "@material-ui/icons": "^4.9.1",<br>
@@ -26,9 +26,16 @@
     "react-dom": "^16.13.1",<br>
     "react-router-dom": "^5.2.0",<br>
     "react-scripts": "3.4.3"
+- Backend Dependencies are: <br>
+    "cors": "^2.8.5",<br>
+    "express": "^4.17.1",<br>
+    "firebase-admin": "^8.10.0",<br>
+    "firebase-functions": "^3.6.1",<br>
+    "stripe": "^8.96.0"
 - For now, it has only couple of endpoints as the application is still in progress.
-- Only purpose of this app is to support and supply data to my project "WhatsApp Clone"
-- The frontend of the app is hossted on firebase at https://my-whatsapp-clone-a8f82.web.app/
+- This project is build for educational purposes and still under development.
+- Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
+- The frontend of the app is hossted on firebase at https://clone-a5e8b.web.app/payment
 
 
 ## Available Scripts
