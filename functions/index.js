@@ -3,7 +3,7 @@ const express = require("express");
 const cors = require("cors");
 
 //secret key from stripe
-const stripe = require("stripe")("");
+const stripe = require("stripe")("");     //add your secret key here
 
 // API
 
