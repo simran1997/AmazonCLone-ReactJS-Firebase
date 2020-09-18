@@ -35,7 +35,7 @@
 - For now, it has only couple of endpoints as the application is still in progress.
 - This project is build for educational purposes and still under development.
 - Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
-- The frontend of the app is hossted on firebase at https://clone-a5e8b.web.app/payment
+- The frontend of the app is hossted on firebase at https://clone-a5e8b.web.app/
 
 
 ## Available Scripts
